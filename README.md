@@ -1,2 +1,2 @@
-DistributedFileSystem
+Distributed File System
 =====================
