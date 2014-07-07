@@ -1,0 +1,2 @@
+replica1 localhost 8082
+replica2 localhost 8083

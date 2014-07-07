@@ -1,0 +1,36 @@
+hello world1
+hello world2
+hello world3
+hello world4
+hello world1
+hello world2
+hello world3
+hello world4
+loss in messages1
+deleted message
+loss in messages3
+deleted message
+hello world1
+hello world2
+hello world3
+hello world4
+client1
+client1
+client1
+client1
+client2
+client2
+client2
+client2
+client3
+client3
+client3
+client3
+failure test1
+failure test2
+failure test3
+failure test4
+failure test1
+failure test2
+failure test3
+failure test4

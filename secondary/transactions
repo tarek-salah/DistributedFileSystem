@@ -1,0 +1,432 @@
+1 input falseCommit
+1 input trueCommit
+2 input falseCommit
+2 input trueCommit
+3 input falseCommit
+3 input trueCommit
+4 input falseCommit
+4 input trueCommit
+5 input falseCommit
+5 input trueCommit
+6 input falseCommit
+7 input falseCommit
+8 input falseCommit
+9 input falseCommit
+10 input1 falseCommit
+10 input1 trueCommit
+11 input2 falseCommit
+11 input2 trueCommit
+12 input2 falseCommit
+12 input2 trueCommit
+13 input2 falseCommit
+13 input2 trueCommit
+14 input2 falseCommit
+14 input2 trueCommit
+15 input3 falseCommit
+15 input3 trueCommit
+16 input3 falseCommit
+16 input3 trueCommit
+17 input3 falseCommit
+17 input3 trueCommit
+18 input3 falseCommit
+18 input3 trueCommit
+19 input3 falseCommit
+19 input3 trueCommit
+21 input4 falseCommit
+21 input4 trueCommit
+22 input4 falseCommit
+22 input4 trueCommit
+23 input4 falseCommit
+23 input4 trueCommit
+24 input4 falseCommit
+24 input4 trueCommit
+25 input4 falseCommit
+25 input4 trueCommit
+26 input4 falseCommit
+26 input4 deleted
+27 input4 falseCommit
+27 input4 deleted
+28 input4 falseCommit
+28 input4 deleted
+29 input4 falseCommit
+29 input4 trueCommit
+30 input.txt falseCommit
+30 input.txt trueCommit
+31 input4 falseCommit
+31 input4 trueCommit
+32 input.txt falseCommit
+32 input.txt trueCommit
+33 input3 falseCommit
+33 input3 trueCommit
+34 input1 falseCommit
+34 input1 trueCommit
+35 input4 falseCommit
+35 input4 trueCommit
+36 input.txt falseCommit
+36 input.txt trueCommit
+37 input3 falseCommit
+37 input3 trueCommit
+38 input1 falseCommit
+38 input1 trueCommit
+39 input4 falseCommit
+39 input4 aborting
+40 input.txt falseCommit
+40 input.txt aborting
+41 input3 falseCommit
+41 input3 aborting
+42 input1 falseCommit
+42 input1 aborting
+43 newinput.txt falseCommit
+43 newinput.txt trueCommit
+44 newinput.txt falseCommit
+44 newinput.txt trueCommit
+45 newinput1.txt falseCommit
+45 newinput1.txt trueCommit
+46 newinput1.txt falseCommit
+46 newinput1.txt aborting
+47 newinput1.txt falseCommit
+47 newinput1.txt trueCommit
+48 newinput1.txt falseCommit
+49 newinput1.txt falseCommit
+48 newinput1.txt trueCommit
+49 newinput1.txt trueCommit
+50 newinput1.txt falseCommit
+51 newinput1.txt falseCommit
+50 newinput1.txt trueCommit
+51 newinput1.txt trueCommit
+52 newinput1.txt falseCommit
+53 newinput1.txt falseCommit
+52 newinput1.txt trueCommit
+53 newinput1.txt trueCommit
+54 newinput1.txt falseCommit
+54 newinput1.txt reciving message : 1
+55 newinput1.txt falseCommit
+55 newinput1.txt reciving message : 1
+54 newinput1.txt reciving message : 2
+55 newinput1.txt reciving message : 2
+54 newinput1.txt reciving message : 3
+55 newinput1.txt reciving message : 3
+54 newinput1.txt reciving message : 4
+55 newinput1.txt reciving message : 4
+54 newinput1.txt trueCommit
+55 newinput1.txt trueCommit
+56 newinput1.txt falseCommit
+56 newinput1.txt reciving message : 1
+57 newinput1.txt falseCommit
+57 newinput1.txt reciving message : 1
+56 newinput1.txt reciving message : 2
+57 newinput1.txt reciving message : 2
+56 newinput1.txt reciving message : 3
+57 newinput1.txt reciving message : 3
+56 newinput1.txt reciving message : 4
+57 newinput1.txt reciving message : 4
+56 newinput1.txt trueCommit
+57 newinput1.txt trueCommit
+58 newinput1.txt falseCommit
+58 newinput1.txt reciving message : 1
+58 newinput1.txt reciving message : 2
+58 newinput1.txt reciving message : 3
+58 newinput1.txt reciving message : 4
+58 newinput1.txt trueCommit
+59 finalTest.txt falseCommit
+59 finalTest.txt reciving message : 1
+59 finalTest.txt reciving message : 2
+59 finalTest.txt reciving message : 3
+59 finalTest.txt reciving message : 4
+59 finalTest.txt trueCommit
+60 finalTest.txt falseCommit
+60 finalTest.txt reciving message : 1
+60 finalTest.txt reciving message : 2
+60 finalTest.txt reciving message : 3
+60 finalTest.txt reciving message : 4
+60 finalTest.txt trueCommit
+61 finalTest.txt falseCommit
+61 finalTest.txt reciving message : 1
+61 finalTest.txt reciving message : 2
+61 finalTest.txt reciving message : 3
+61 finalTest.txt reciving message : 4
+61 finalTest.txt trueCommit
+62 finalTest.txt falseCommit
+62 finalTest.txt reciving message : 1
+62 finalTest.txt reciving message : 2
+62 finalTest.txt reciving message : 3
+62 finalTest.txt reciving message : 4
+62 finalTest.txt trueCommit
+63 finalTest.txt falseCommit
+63 finalTest.txt reciving message : 1
+63 finalTest.txt reciving message : 2
+63 finalTest.txt reciving message : 3
+63 finalTest.txt reciving message : 4
+63 finalTest.txt trueCommit
+64 finalTest.txt falseCommit
+64 finalTest.txt reciving message : 1
+64 finalTest.txt reciving message : 2
+64 finalTest.txt reciving message : 3
+64 finalTest.txt reciving message : 4
+64 finalTest.txt aborting
+65 finalTest.txt falseCommit
+65 finalTest.txt reciving message : 1
+65 finalTest.txt reciving message : 2
+65 finalTest.txt reciving message : 3
+65 finalTest.txt reciving message : 4
+65 finalTest.txt trueCommit
+66 finalTest.txt falseCommit
+66 finalTest.txt reciving message : 1
+66 finalTest.txt reciving message : 2
+66 finalTest.txt reciving message : 3
+66 finalTest.txt reciving message : 4
+66 finalTest.txt aborting
+67 finalTest.txt falseCommit
+67 finalTest.txt reciving message : 1
+67 finalTest.txt reciving message : 3
+67 finalTest.txt reciving message : 2
+67 finalTest.txt reciving message : 4
+67 finalTest.txt trueCommit
+68 finalTest.txt falseCommit
+68 finalTest.txt reciving message : 1
+68 finalTest.txt reciving message : 3
+68 finalTest.txt reciving message : 2
+68 finalTest.txt reciving message : 4
+68 finalTest.txt trueCommit
+69 finalTest.txt falseCommit
+69 finalTest.txt reciving message : 1
+70 finalTest.txt falseCommit
+70 finalTest.txt reciving message : 1
+69 finalTest.txt reciving message : 2
+70 finalTest.txt reciving message : 2
+69 finalTest.txt reciving message : 3
+70 finalTest.txt reciving message : 3
+69 finalTest.txt reciving message : 4
+70 finalTest.txt reciving message : 4
+69 finalTest.txt trueCommit
+70 finalTest.txt trueCommit
+71 finalTest.txt falseCommit
+71 finalTest.txt reciving message : 1
+71 finalTest.txt reciving message : 2
+71 finalTest.txt reciving message : 3
+71 finalTest.txt reciving message : 4
+71 finalTest.txt trueCommit
+72 finalTest.txt falseCommit
+72 finalTest.txt reciving message : 1
+73 finalTest.txt falseCommit
+73 finalTest.txt reciving message : 1
+74 finalTest.txt falseCommit
+74 finalTest.txt reciving message : 1
+72 finalTest.txt reciving message : 2
+73 finalTest.txt reciving message : 2
+74 finalTest.txt reciving message : 2
+72 finalTest.txt reciving message : 3
+73 finalTest.txt reciving message : 3
+74 finalTest.txt reciving message : 3
+72 finalTest.txt reciving message : 4
+73 finalTest.txt reciving message : 4
+74 finalTest.txt reciving message : 4
+72 finalTest.txt trueCommit
+73 finalTest.txt trueCommit
+74 finalTest.txt trueCommit
+75 finalTest.txt falseCommit
+75 finalTest.txt reciving message : 1
+75 finalTest.txt reciving message : 2
+75 finalTest.txt reciving message : 3
+75 finalTest.txt reciving message : 4
+75 finalTest.txt deleted
+76 finalTest.txt falseCommit
+76 finalTest.txt reciving message : 1
+76 finalTest.txt reciving message : 2
+76 finalTest.txt reciving message : 3
+76 finalTest.txt reciving message : 4
+76 finalTest.txt deleted
+77 finalTest.txt falseCommit
+78 finalTest.txt falseCommit
+78 finalTest.txt reciving message : 1
+78 finalTest.txt reciving message : 2
+78 finalTest.txt reciving message : 4
+78 finalTest.txt reciving message : 3
+78 finalTest.txt trueCommit
+79 finalTest.txt falseCommit
+79 finalTest.txt reciving message : 1
+79 finalTest.txt reciving message : 2
+79 finalTest.txt reciving message : 3
+79 finalTest.txt reciving message : 4
+79 finalTest.txt trueCommit
+80 newFile2.txt falseCommit
+80 newFile2.txt reciving message : 1
+80 newFile2.txt reciving message : 2
+80 newFile2.txt reciving message : 3
+80 newFile2.txt reciving message : 4
+80 newFile2.txt trueCommit
+81 newFile2.txt falseCommit
+81 newFile2.txt reciving message : 1
+81 newFile2.txt reciving message : 2
+81 newFile2.txt reciving message : 3
+81 newFile2.txt reciving message : 4
+81 newFile2.txt trueCommit
+82 newFile2.txt falseCommit
+82 newFile2.txt reciving message : 1
+82 newFile2.txt reciving message : 2
+82 newFile2.txt reciving message : 3
+82 newFile2.txt reciving message : 4
+82 newFile2.txt trueCommit
+83 newFile2.txt falseCommit
+83 newFile2.txt reciving message : 1
+83 newFile2.txt reciving message : 2
+83 newFile2.txt reciving message : 3
+83 newFile2.txt reciving message : 4
+83 newFile2.txt trueCommit
+84 newFile2.txt falseCommit
+84 newFile2.txt reciving message : 1
+84 newFile2.txt reciving message : 2
+84 newFile2.txt reciving message : 3
+84 newFile2.txt reciving message : 4
+84 newFile2.txt trueCommit
+85 newFile2.txt falseCommit
+85 newFile2.txt reciving message : 1
+85 newFile2.txt reciving message : 2
+85 newFile2.txt reciving message : 3
+85 newFile2.txt reciving message : 4
+85 newFile2.txt trueCommit
+86 newFile2.txt falseCommit
+86 newFile2.txt reciving message : 1
+86 newFile2.txt reciving message : 2
+86 newFile2.txt reciving message : 3
+86 newFile2.txt reciving message : 4
+86 newFile2.txt trueCommit
+87 newFile2.txt falseCommit
+87 newFile2.txt reciving message : 1
+87 newFile2.txt reciving message : 2
+87 newFile2.txt reciving message : 3
+87 newFile2.txt reciving message : 4
+87 newFile2.txt trueCommit
+88 newFile2.txt falseCommit
+88 newFile2.txt reciving message : 1
+88 newFile2.txt reciving message : 2
+88 newFile2.txt reciving message : 3
+88 newFile2.txt reciving message : 4
+88 newFile2.txt trueCommit
+89 newFile2.txt falseCommit
+89 newFile2.txt reciving message : 1
+89 newFile2.txt reciving message : 2
+89 newFile2.txt reciving message : 3
+89 newFile2.txt reciving message : 4
+89 newFile2.txt trueCommit
+90 newFile2.txt falseCommit
+90 newFile2.txt reciving message : 1
+90 newFile2.txt reciving message : 2
+90 newFile2.txt reciving message : 3
+90 newFile2.txt reciving message : 4
+90 newFile2.txt trueCommit
+91 newFile2.txt falseCommit
+91 newFile2.txt reciving message : 1
+91 newFile2.txt reciving message : 3
+91 newFile2.txt reciving message : 2
+91 newFile2.txt reciving message : 4
+91 newFile2.txt trueCommit
+92 newFile2.txt falseCommit
+92 newFile2.txt reciving message : 1
+92 newFile2.txt reciving message : 2
+92 newFile2.txt reciving message : 3
+92 newFile2.txt reciving message : 4
+92 newFile2.txt aborting
+93 newFile2.txt falseCommit
+93 newFile2.txt reciving message : 1
+93 newFile2.txt reciving message : 2
+93 newFile2.txt reciving message : 3
+93 newFile2.txt reciving message : 4
+93 newFile2.txt aborting
+94 newFile2.txt falseCommit
+94 newFile2.txt reciving message : 1
+94 newFile2.txt reciving message : 2
+94 newFile2.txt reciving message : 3
+94 newFile2.txt reciving message : 4
+94 newFile2.txt trueCommit
+95 newFile2.txt falseCommit
+95 newFile2.txt reciving message : 1
+96 newFile2.txt falseCommit
+96 newFile2.txt reciving message : 1
+95 newFile2.txt reciving message : 2
+97 newFile2.txt falseCommit
+97 newFile2.txt reciving message : 1
+96 newFile2.txt reciving message : 2
+95 newFile2.txt reciving message : 3
+97 newFile2.txt reciving message : 2
+96 newFile2.txt reciving message : 3
+95 newFile2.txt reciving message : 4
+97 newFile2.txt reciving message : 3
+96 newFile2.txt reciving message : 4
+95 newFile2.txt trueCommit
+97 newFile2.txt reciving message : 4
+96 newFile2.txt trueCommit
+97 newFile2.txt trueCommit
+98 newFile2.txt falseCommit
+98 newFile2.txt reciving message : 1
+98 newFile2.txt reciving message : 2
+98 newFile2.txt reciving message : 3
+98 newFile2.txt reciving message : 4
+98 newFile2.txt deleted
+99 newFile2.txt falseCommit
+99 newFile2.txt reciving message : 1
+99 newFile2.txt reciving message : 2
+99 newFile2.txt reciving message : 3
+99 newFile2.txt reciving message : 4
+99 newFile2.txt trueCommit
+100 newFile2.txt falseCommit
+100 newFile2.txt reciving message : 1
+100 newFile2.txt reciving message : 2
+100 newFile2.txt reciving message : 3
+100 newFile2.txt reciving message : 4
+100 newFile2.txt trueCommit
+101 newFile3.txt falseCommit
+101 newFile3.txt reciving message : 1
+101 newFile3.txt reciving message : 2
+101 newFile3.txt reciving message : 3
+101 newFile3.txt reciving message : 4
+101 newFile3.txt trueCommit
+102 newFile3.txt falseCommit
+102 newFile3.txt reciving message : 1
+102 newFile3.txt reciving message : 2
+102 newFile3.txt reciving message : 3
+102 newFile3.txt reciving message : 4
+102 newFile3.txt trueCommit
+7 input deleted
+9 input deleted
+8 input deleted
+6 input deleted
+77 finalTest.txt deleted
+103 newFile4.txt falseCommit
+103 newFile4.txt reciving message : 1
+103 newFile4.txt reciving message : 2
+103 newFile4.txt reciving message : 3
+103 newFile4.txt reciving message : 4
+103 newFile4.txt trueCommit
+104 newFile4.txt falseCommit
+104 newFile4.txt reciving message : 1
+105 newFile4.txt falseCommit
+105 newFile4.txt reciving message : 1
+104 newFile4.txt reciving message : 2
+105 newFile4.txt reciving message : 2
+104 newFile4.txt reciving message : 3
+105 newFile4.txt reciving message : 3
+104 newFile4.txt reciving message : 4
+105 newFile4.txt reciving message : 4
+104 newFile4.txt trueCommit
+105 newFile4.txt trueCommit
+106 newFile4.txt falseCommit
+106 newFile4.txt reciving message : 1
+106 newFile4.txt reciving message : 3
+106 newFile4.txt reciving message : 2
+106 newFile4.txt reciving message : 4
+106 newFile4.txt trueCommit
+107 newFile4.txt falseCommit
+108 newFile2.txt falseCommit
+108 newFile2.txt reciving message : 1
+108 newFile2.txt reciving message : 2
+108 newFile2.txt reciving message : 4
+108 newFile2.txt reciving message : 3
+108 newFile2.txt trueCommit
+109 newFile4.txt falseCommit
+110 newFile2.txt falseCommit
+110 newFile2.txt reciving message : 1
+110 newFile2.txt reciving message : 2
+110 newFile2.txt reciving message : 3
+110 newFile2.txt reciving message : 4
+110 newFile2.txt trueCommit
